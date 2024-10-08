@@ -12,8 +12,7 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
-		"package-name": "version",
-		"@freecodecamp/example": "1.1.0"
+		"package-name": "version"
 	},
 	"repository": {
 		"type": "git",
